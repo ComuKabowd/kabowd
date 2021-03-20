@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url(../img/background.jpg);
+    background-size: contain;
+}
+.nav-content{
+    display: flex;
+}
+
+.nav-list ul{
+    display: flex;
+    list-style: none;
+}
+
+.nav-list ul li{
+    margin: auto 5px;
+}
